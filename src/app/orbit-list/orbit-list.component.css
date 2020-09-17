@@ -7,6 +7,10 @@
     background-color: #ff0000;
 }
 
+.everyother {
+    background-color: aquamarine;
+}
+
 table {
   color: #111;
   border-radius: 5px;
